@@ -6,4 +6,4 @@
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Unicorn_MagicUpdate', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Unicorn_MagicUpdateDemo', __DIR__);
