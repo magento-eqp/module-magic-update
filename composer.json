@@ -1,7 +1,7 @@
 {
     "name": "unicorn/module-magic-update-demo",
-    "version": "1.0.0",
-    "description": "N/A",
+    "version": "1.0.1",
+    "description": "Awesome unicorns show the magic!",
     "config": {
         "sort-packages": true
     },
