@@ -12,5 +12,8 @@ namespace Unicorn\MagicUpdateDemo\Model;
  */
 class MagicUnicorn
 {
-
+    public function __construct()
+    {
+        echo 'Patch release!';
+    }
 }
